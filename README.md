@@ -1,9 +1,9 @@
 # Talita Leal
 
 ## PT-BR: Sobre Mim 🙋🏽‍♀️ </br>EN-US: About Me 🙋🏽‍♀️
-PT-BR: Olá!👋  Eu tenho 21 anos, sou graduanda em 💻 **Engenharia da Computação** pela Centro Universitário UNA e sou de Belo Horizonte - MG, Brasil. 🎓 Sou formada em curso técnico em informática, que foi onde conheci e me apaixonei pela área de TI. 👩🏽‍💻 Dentro da tecnologia, as áreas que mais me fascinam são IA, IoT, Ciência de Dados e coisas relacionadas. 🚀 Para o futuro, espero trabalhar remotamente e curtir a vida viajando para todos os cantos do mundo, pois amo conhecer e aprender sobre as culturas e a diversidade. 
+PT-BR: Olá!👋  Eu tenho 23 anos, sou graduanda em 💻 **Engenharia da Computação** pela Centro Universitário UNA e sou de Belo Horizonte - MG, Brasil. 🎓 Sou formada em curso técnico em informática, que foi onde conheci e me apaixonei pela área de TI. 👩🏽‍💻 Dentro da tecnologia, as áreas que mais me fascinam são IA, IoT, Ciência de Dados e coisas relacionadas. 🚀 Para o futuro, espero trabalhar remotamente e curtir a vida viajando para todos os cantos do mundo, pois amo conhecer e aprender sobre as culturas e a diversidade. 
 
-EN-US: Hi there! 👋 I'm 21 years old, I'm graduate student in 💻 **Computer Engineering** at Centro Universitário UNA and I'm from Belo Horizonte - MG, Brazil. 🎓 I graduated in a technical computer course, which is where I met and fell in love with the IT area. 👩🏽‍💻 Within technology, the areas that fascinate me are AI, IoT, Data Science and related things. 🚀 For the future, I hope to work remotely and enjoy life traveling to all the world, because I love to know and learn about cultures and diversity. 
+EN-US: Hi there! 👋 I'm 23 years old, I'm graduate student in 💻 **Computer Engineering** at Centro Universitário UNA and I'm from Belo Horizonte - MG, Brazil. 🎓 I graduated in a technical computer course, which is where I met and fell in love with the IT area. 👩🏽‍💻 Within technology, the areas that fascinate me are AI, IoT, Data Science and related things. 🚀 For the future, I hope to work remotely and enjoy life traveling to all the world, because I love to know and learn about cultures and diversity. 
 
 
 ## PT-BR: Contato e Redes Sociais 📲 <br>EN-US: Contact and Social Medias 📲
@@ -15,10 +15,10 @@ EN-US: Hi there! 👋 I'm 21 years old, I'm graduate student in 💻 **Computer 
 PT-BR: Aqui estão as principais tecnologias que estou aprendendo no momento:<br> 
 EN-US: Here are the technologies I'm learning at the moment:<br>
 <br>
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talitals&theme=midnight-purple&show_icons=true&) 
