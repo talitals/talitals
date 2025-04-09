@@ -41,8 +41,8 @@ EN-US:
 * 📚 Study.
 
 ## PT-BR: Línguas 🧏🏽‍♀️🗺  <br> EN-US: Languages 🧏🏽‍♀️🗺
-* PT-BR: Aprendendo Inglês e LIBRAS (Língua brasileira de sinais) <br><br>
-* EN-US: Learning English and LIBRAS (Brazilian Sign Language) 
+* PT-BR: Aprendendo Inglês <br><br>
+* EN-US: Learning English 
 
 
 ## PT-BR: Artigos DIO 📄 <br> EN-US: DIO Articles 📄
